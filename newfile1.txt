@@ -1,0 +1,1 @@
+checking the behaviour of git commit -a
